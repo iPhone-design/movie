@@ -1,0 +1,1 @@
+import{v as t,a as s,b as o,o as n}from"./index-DXSatcRK.js";const r={};function a(c,e){return n(),s("section",null,e[0]||(e[0]=[o("div",{style:{position:"absolute",top:"50%",left:"50%"}},[o("h1",{style:{color:"white"}},"Not Found")],-1)]))}const i=t(r,[["render",a]]);export{i as default};
